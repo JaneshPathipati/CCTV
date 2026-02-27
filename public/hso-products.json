@@ -1,0 +1,772 @@
+{
+  "source": "https://www.velvu.in/categories/cctv-camera",
+  "lastUpdated": "2025-01-27",
+  "totalProducts": 72,
+  "categories": [
+    {
+      "name": "HD Camera",
+      "products": [
+        {
+          "id": "HD2002PTA",
+          "model": "HSO-D-HD3000",
+          "name": "HSO 2MP HD Audio PT Dome Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "Audio",
+            "PT (Pan/Tilt)"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WAS",
+          "model": "HSO-B-HD3001",
+          "name": "HSO 2MP HD 2-Way Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "2-Way Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WAS-D",
+          "model": "HSO-D-HD3002",
+          "name": "HSO 2MP HD 2-Way Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "2-Way Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA-FE",
+          "model": "HSO-D-HD3003",
+          "name": "HSO 5MP HD Color Audio Dome Fisheye Camera",
+          "type": "Dome",
+          "resolution": "5MP",
+          "features": [
+            "Color",
+            "Audio",
+            "Fisheye"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA-FE-B",
+          "model": "HSO-B-HD3004",
+          "name": "HSO 5MP HD Color Audio Bullet Fisheye Camera",
+          "type": "Bullet",
+          "resolution": "5MP",
+          "features": [
+            "Color",
+            "Audio",
+            "Fisheye"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2001M-WLA",
+          "model": "HSO-B-HD3005",
+          "name": "HSO Color 2MP In-Built Audio HD Metal Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "In-Built Audio",
+            "Metal"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA12",
+          "model": "HSO-B-HD3006",
+          "name": "HSO 2MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "lens": "12mm",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA8",
+          "model": "HSO-B-HD3007",
+          "name": "HSO 2MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "lens": "8mm",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2001WLA-OSD-B",
+          "model": "HSO-B-HD3008",
+          "name": "HSO 2MP HD Color and Audio Bullet Camera with OSD Button",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "Audio",
+            "OSD Button"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2001WLA-OSD-D",
+          "model": "HSO-D-HD3009",
+          "name": "HSO 2MP HD Color and Audio Dome Camera with OSD Button",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "Audio",
+            "OSD Button"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA-FE",
+          "model": "HSO-B-HD3010",
+          "name": "HSO 2MP HD Color Audio Bullet Fisheye Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "Audio",
+            "Fisheye"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2001WLA-B",
+          "model": "HSO-B-HD3011",
+          "name": "HSO 2MP HD Color and Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2001WLA-D",
+          "model": "HSO-D-HD3012",
+          "name": "HSO 2MP HD Color and Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA-D",
+          "model": "HSO-D-HD3013",
+          "name": "HSO Color 5MP In-built Audio HD Dome Camera",
+          "type": "Dome",
+          "resolution": "5MP",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA-FE-D",
+          "model": "HSO-D-HD3014",
+          "name": "HSO 2MP HD Color Audio Dome Fisheye Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "Audio",
+            "Fisheye"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002DLA-D",
+          "model": "HSO-D-HD3015",
+          "name": "HSO 2MP HD Dual Light Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "Dual Light",
+            "Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002DLA-B",
+          "model": "HSO-B-HD3016",
+          "name": "HSO 2MP HD Dual Light Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "Dual Light",
+            "Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002DLA-D",
+          "model": "HSO-D-HD3017",
+          "name": "HSO 5MP HD Dual Light Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "5MP",
+          "features": [
+            "Dual Light",
+            "Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002DLA-B",
+          "model": "HSO-B-HD3018",
+          "name": "HSO 5MP HD Dual Light Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "5MP",
+          "features": [
+            "Dual Light",
+            "Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA8",
+          "model": "HSO-B-HD3019",
+          "name": "HSO 5MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "5MP",
+          "lens": "8mm",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA12",
+          "model": "HSO-B-HD3020",
+          "name": "HSO 5MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "5MP",
+          "lens": "12mm",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA-D",
+          "model": "HSO-D-HD3021",
+          "name": "HSO 2MP HD Color In-Built Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA6",
+          "model": "HSO-B-HD3022",
+          "name": "HSO 2MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "lens": "6mm",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD2002WLA",
+          "model": "HSO-B-HD3023",
+          "name": "HSO Color 2MP In-Built Audio HD Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA",
+          "model": "HSO-B-HD3024",
+          "name": "HSO 5MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "5MP",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        },
+        {
+          "id": "HD5002WLA6",
+          "model": "HSO-B-HD3025",
+          "name": "HSO 5MP HD Color In-Built Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "5MP",
+          "lens": "6mm",
+          "features": [
+            "Color",
+            "In-Built Audio"
+          ],
+          "category": "HD Camera"
+        }
+      ]
+    },
+    {
+      "name": "IP Camera",
+      "products": [
+        {
+          "id": "IP4002DES-D",
+          "model": "HSO-D-IP4000",
+          "name": "HSO 4MP IP 2-Way Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "4MP",
+          "features": [
+            "2-Way Audio",
+            "Supports External Speaker"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DES-B",
+          "model": "HSO-B-IP4001",
+          "name": "HSO 4MP IP 2-Way Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "2-Way Audio",
+            "Supports External Speaker"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DAS-B",
+          "model": "HSO-B-IP4002",
+          "name": "HSO 4MP IP 2-Way Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "2-Way Audio"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DAS-D",
+          "model": "HSO-D-IP4003",
+          "name": "HSO 4MP IP 2-Way Audio Dome Camera",
+          "type": "Dome",
+          "resolution": "4MP",
+          "features": [
+            "2-Way Audio"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP6002DL12",
+          "model": "HSO-B-IP4004",
+          "name": "HSO 6MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "6MP",
+          "lens": "12mm",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP6002DL8",
+          "model": "HSO-B-IP4005",
+          "name": "HSO 6MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "6MP",
+          "lens": "8mm",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP2002DL-B",
+          "model": "HSO-B-IP4006",
+          "name": "HSO 2MP IP In-Built Audio and Color Bullet Camera",
+          "type": "Bullet",
+          "resolution": "2MP",
+          "features": [
+            "In-Built Audio",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP2002DL-D",
+          "model": "HSO-D-IP4007",
+          "name": "HSO 2MP IP In-Built Audio and Color Dome Camera",
+          "type": "Dome",
+          "resolution": "2MP",
+          "features": [
+            "In-Built Audio",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP6002DL-FE",
+          "model": "HSO-B-IP4008",
+          "name": "HSO 6MP IP Color Fisheye Bullet Camera",
+          "type": "Bullet",
+          "resolution": "6MP",
+          "features": [
+            "Color",
+            "Fisheye"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP6002DL",
+          "model": "HSO-B-IP4009",
+          "name": "HSO 6MP IP In-Built Audio and Color Bullet Camera",
+          "type": "Bullet",
+          "resolution": "6MP",
+          "features": [
+            "In-Built Audio",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP6002DL6",
+          "model": "HSO-B-IP4010",
+          "name": "HSO 6MP IP In-Built Audio and Color Bullet Camera",
+          "type": "Bullet",
+          "resolution": "6MP",
+          "lens": "6mm",
+          "features": [
+            "In-Built Audio",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP6002DL-D",
+          "model": "HSO-D-IP4011",
+          "name": "HSO 6MP IP In-Built Audio and Color Dome Camera",
+          "type": "Dome",
+          "resolution": "6MP",
+          "features": [
+            "In-Built Audio",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DVFL",
+          "model": "HSO-B-IP4012",
+          "name": "HSO 4MP IP Motorized Vari-focal Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "lens": "2.8 - 13.5 mm",
+          "features": [
+            "Motorized Vari-focal"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP8002LL-D",
+          "model": "HSO-D-IP4013",
+          "name": "HSO 8MP IP Low Light Color Dome Camera",
+          "type": "Dome",
+          "resolution": "8MP",
+          "features": [
+            "Low Light",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP8002LL-B",
+          "model": "HSO-B-IP4014",
+          "name": "HSO 8MP IP Low Light Color Bullet Camera",
+          "type": "Bullet",
+          "resolution": "8MP",
+          "features": [
+            "Low Light",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP3001DL6",
+          "model": "HSO-B-IP4015",
+          "name": "HSO 3MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "3MP",
+          "lens": "6mm",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002LL-D",
+          "model": "HSO-D-IP4016",
+          "name": "HSO 4MP IP Low Light Color Dome Camera",
+          "type": "Dome",
+          "resolution": "4MP",
+          "features": [
+            "Low Light",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002LL-B",
+          "model": "HSO-B-IP4017",
+          "name": "HSO 4MP IP Low Light Color Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "Low Light",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL-FE-B",
+          "model": "HSO-B-IP4018",
+          "name": "HSO 4MP IP Color Fisheye Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "Color",
+            "Fisheye"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL-FE-D",
+          "model": "HSO-D-IP4019",
+          "name": "HSO 4MP IP Color Fisheye Dome Camera",
+          "type": "Dome",
+          "resolution": "4MP",
+          "features": [
+            "Color",
+            "Fisheye"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP3001DL-D",
+          "model": "HSO-D-IP4020",
+          "name": "HSO 3MP IP Dome Camera",
+          "type": "Dome",
+          "resolution": "3MP",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP3001DL-B",
+          "model": "HSO-B-IP4021",
+          "name": "HSO 3MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "3MP",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DXA-D",
+          "model": "HSO-D-IP4022",
+          "name": "HSO 4MP IP Dome Alarm Camera",
+          "type": "Dome",
+          "resolution": "4MP",
+          "features": [
+            "Alarm"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL12",
+          "model": "HSO-B-IP4023",
+          "name": "HSO 4MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "lens": "12mm",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL8",
+          "model": "HSO-B-IP4024",
+          "name": "HSO 4MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "lens": "8mm",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL6",
+          "model": "HSO-B-IP4025",
+          "name": "HSO 4MP IP Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "lens": "6mm",
+          "features": [
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL-B",
+          "model": "HSO-B-IP4026",
+          "name": "HSO 4MP Dual Smart LED IP Color Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "Dual Smart LED",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DL-D",
+          "model": "HSO-D-IP4027",
+          "name": "HSO 4MP Dual Smart LED IP Color Dome Camera",
+          "type": "Dome",
+          "resolution": "4MP",
+          "features": [
+            "Dual Smart LED",
+            "Color"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DRSL",
+          "model": "HSO-B-IP4028",
+          "name": "HSO 4MP IP WDR Color + Audio Bullet Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "WDR",
+            "Color",
+            "Audio"
+          ],
+          "category": "IP Camera"
+        },
+        {
+          "id": "IP4002DXA-B",
+          "model": "HSO-B-IP4029",
+          "name": "HSO 4MP IP Bullet Alarm Camera",
+          "type": "Bullet",
+          "resolution": "4MP",
+          "features": [
+            "Alarm"
+          ],
+          "category": "IP Camera"
+        }
+      ]
+    },
+    {
+      "name": "WiFi & 4G Camera",
+      "products": [
+        {
+          "id": "IP3002DL-WF-D",
+          "model": "HSO-D-WF5000",
+          "name": "HSO 3MP WIFI Dome Camera",
+          "type": "Dome",
+          "resolution": "3MP",
+          "features": [
+            "WiFi"
+          ],
+          "category": "WiFi & 4G Camera"
+        },
+        {
+          "id": "IP3002DL-WF-B",
+          "model": "HSO-B-WF5001",
+          "name": "HSO 3MP WIFI Bullet Camera",
+          "type": "Bullet",
+          "resolution": "3MP",
+          "features": [
+            "WiFi"
+          ],
+          "category": "WiFi & 4G Camera"
+        },
+        {
+          "id": "IP3002DL-4G-B",
+          "model": "HSO-B-WF5002",
+          "name": "HSO 3MP 4G Sim Bullet Camera",
+          "type": "Bullet",
+          "resolution": "3MP",
+          "features": [
+            "4G SIM"
+          ],
+          "category": "WiFi & 4G Camera"
+        },
+        {
+          "id": "IP3002DL-4G-D",
+          "model": "HSO-D-WF5003",
+          "name": "HSO 3MP 4G Sim Dome Camera",
+          "type": "Dome",
+          "resolution": "3MP",
+          "features": [
+            "4G SIM"
+          ],
+          "category": "WiFi & 4G Camera"
+        }
+      ]
+    }
+  ],
+  "productSummary": {
+    "byResolution": {
+      "2MP": 25,
+      "3MP": 4,
+      "4MP": 18,
+      "5MP": 7,
+      "6MP": 6,
+      "8MP": 2
+    },
+    "byType": {
+      "Bullet": 38,
+      "Dome": 34
+    },
+    "byFeatures": {
+      "Audio": 35,
+      "Color": 42,
+      "Fisheye": 6,
+      "2-Way Audio": 8,
+      "WiFi": 2,
+      "4G SIM": 2,
+      "Low Light": 4,
+      "Vari-focal": 1,
+      "Alarm": 2,
+      "Dual Light": 4,
+      "WDR": 1
+    }
+  }
+}

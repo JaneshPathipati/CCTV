@@ -1,0 +1,36 @@
+HSO CCTV - PRODUCT CODE LIST
+====================================================================================================
+
+HD CAMERAS (28 Products)
+----------------------------------------------------------------------------------------------------
+ 1. HSO-HD2P001          | HSO 2MP HD Audio PT Dome Camera                         | ST-VD HD2002PTA
+ 2. HSO-HD2B002          | HSO 2MP HD 2-Way Audio Bullet Camera                    | ST-VB HD2002WAS
+ 3. HSO-HD2D003          | HSO 2MP HD 2-Way Audio Dome Camera                      | ST-VD HD2002WAS
+ 4. HSO-HD5F004          | HSO 5MP HD Color Audio Dome Fisheye Camera              | ST-VD HD5002WLA-FE
+ 5. HSO-HD5F005          | HSO 5MP HD Color Audio Bullet Fisheye Camera            | ST-VB HD5002WLA-FE
+ 6. HSO-HD2B006          | HSO Color 2MP In-Built Audio HD Metal Bullet Camera     | ST-VB HD2001M-WLA
+ 7. HSO-HD2B007          | HSO 2MP HD Color In-Built Audio Bullet Camera (12mm)    | ST-VB HD2002WLA12
+ 8. HSO-HD2B008          | HSO 2MP HD Color In-Built Audio Bullet Camera (8mm)     | ST-VB HD2002WLA8
+ 9. HSO-HD2B009          | HSO 2MP HD Color & Audio Bullet Camera with OSD         | ST-VB HD2001WLA-OSD
+10. HSO-HD2D010          | HSO 2MP HD Color & Audio Dome Camera with OSD           | ST-VD HD2001WLA-OSD
+11. HSO-HD2F011          | HSO 2MP HD Color Audio Bullet Fisheye Camera            | ST-VB HD2002WLA-FE
+12. HSO-HD2B012          | HSO 2MP HD Color & Audio Bullet Camera                  | ST-VB HD2001WLA
+13. HSO-HD2D013          | HSO 2MP HD Color & Audio Dome Camera                    | ST-VD HD2001WLA
+14. HSO-HD5D014          | HSO 5MP HD Color In-Built Audio Dome Camera             | ST-VD HD5002WLA
+15. HSO-HD5F015          | HSO 5MP HD Color Audio Dome Fisheye Camera              | ST-VD HD5002WLA-FE
+16. HSO-HD2D016          | HSO 2MP HD Dual Light Audio Dome Camera                 | ST-VD HD2002DLA
+17. HSO-HD2B017          | HSO 2MP HD Dual Light Audio Bullet Camera               | ST-VB HD2002DLA
+18. HSO-HD5D018          | HSO 5MP HD Dual Light Audio Dome Camera                 | ST-VD HD5002DLA
+19. HSO-HD5B019          | HSO 5MP HD Dual Light Audio Bullet Camera               | ST-VB HD5002DLA
+20. HSO-HD2B024          | HSO Color 2MP In-Built Audio HD Bullet Camera           | ST-VB HD2002WLA
+21. HSO-HD2B075          | HSO 2MP HD Color and Audio Bullet Camera                | ST-VB HD2001WLA-CA
+
+WiFi & 4G CAMERAS (4 Products)
+----------------------------------------------------------------------------------------------------
+ 1. HSO-WF3D069          | HSO 3MP WiFi Dome Camera                                | ST-VD IP3002DL-WF
+ 2. HSO-WF3B070          | HSO 3MP WiFi Bullet Camera                              | ST-VB IP3002DL-WF
+ 3. HSO-WF4D071          | HSO 4MP IP Dome Alarm Camera                            | ST-VD IP4002DXA
+ 4. HSO-WF3B072          | HSO 3MP 4G SIM Bullet Camera                            | ST-VB IP3002DL-4G
+
+====================================================================================================
+Total: 25 unique product codes

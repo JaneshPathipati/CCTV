@@ -1,0 +1,15 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Host
+Host: https://hsocctv.com
+
+# Sitemaps
+Sitemap: https://hsocctv.com/sitemap.xml
+Sitemap: https://hsocctv.com/products-sitemap.xml

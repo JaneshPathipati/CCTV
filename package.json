@@ -1,0 +1,35 @@
+{
+  "name": "hso-cctv",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export:database": "ts-node scripts/export-database.ts",
+    "import:database": "ts-node scripts/import-database.ts",
+    "migrate:images": "ts-node scripts/migrate-images.ts",
+    "setup:fresh": "ts-node scripts/setup-fresh-database.ts",
+    "upload:images": "ts-node scripts/upload-all-images.ts"
+  },
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.15.0",
+    "@supabase/supabase-js": "^2.95.3",
+    "dotenv": "^17.3.1",
+    "framer-motion": "^11.18.2",
+    "next": "^16.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "@types/react": "18.2.48",
+    "@types/react-dom": "18.2.18",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

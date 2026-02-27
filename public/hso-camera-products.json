@@ -1,0 +1,2736 @@
+{
+  "products": [
+    {
+      "id": "HSO-IP4D-NEW",
+      "name": "HSO 4MP IP 2-Way Audio Dome Camera (Supports External Speaker)",
+      "model_number": "HSO-00000001",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "4MP",
+      "audio": "2-Way",
+      "connectivity": "IP",
+      "description": "TWO-WAY NETWORK EYEBALL CAMERA - Network Dome Camera with High-Definition Image Sensor. Supports External Speaker for enhanced two-way communication. Features built-in mic and external speaker support, smart dual night vision, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "2.8mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "ip_address": "192.168.1.100",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic and Supports External Speaker (Two-way)",
+          "High-Definition Image Sensor",
+          "Metal Body",
+          "ONVIF Support",
+          "POE - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Two-Way Audio",
+        "External Speaker Support",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "IP-1.png"
+    },
+    {
+      "id": "HSO-IP4B-NEW",
+      "name": "HSO 4MP IP 2-Way Audio Bullet Camera",
+      "model_number": "HSO-00000002",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "2-Way",
+      "connectivity": "IP",
+      "description": "TWO-WAY NETWORK BULLET CAMERA with High-Definition Image Sensor. Features built-in mic and speaker for two-way communication, smart dual night vision, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic and Speaker (Two-way)",
+          "High-Definition Image Sensor",
+          "Metal Body",
+          "ONVIF Support",
+          "POE - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Two-Way Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "IP-2.png"
+    },
+    {
+      "id": "HSO-IP2B-NEW",
+      "name": "HSO 2MP IP In-Built Audio and Color Bullet Camera",
+      "model_number": "HSO-00000003",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "2MP IP AUDIO AND COLOR BULLET CAMERA with Smart Dual Night Vision. Features built-in microphone, metal body construction, ONVIF support, and weatherproof IP67 rating for reliable outdoor surveillance.",
+      "specifications": {
+        "resolution": "2MP",
+        "max_resolution": "1920 x 1080",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "weatherproof": "IP 67",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "IP 67 Weather-proof",
+          "VBR/CBR Bit Rate Control",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Metal Body",
+        "IP67",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-13.png"
+    },
+    {
+      "id": "HSO-IP4SL-NEW",
+      "name": "HSO 4MP IP Star Light Color Bullet Camera",
+      "model_number": "HSO-00000004",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Star Light Network Bullet Camera. Features advanced star light technology for superior color night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "Star Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Star Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-4.png"
+    },
+    {
+      "id": "HSO-IP4SLD-NEW",
+      "name": "HSO 4MP IP Star Light Color Dome Camera",
+      "model_number": "HSO-00000005",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Star Light Network Dome Camera. Features advanced star light technology for superior color night vision, smart dual night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Color Night Vision",
+          "Star Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Star Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-5.png"
+    },
+    {
+      "id": "HSO-IP8MV-NEW",
+      "name": "HSO 8MP IP Motorized Vari-focal Bullet Camera (Lens: 2.8 - 13.5 mm)",
+      "model_number": "HSO-00000006",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "8MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Motorized Vari-focal AI Network Bullet Camera with Smart Dual Night Vision. Features advanced AI detection capabilities including zone fencing, loiter detection, crowd detection, and trespassing detection. Motorized 2.8-13.5mm lens for flexible coverage, metal body construction, and real-time automated alerts.",
+      "specifications": {
+        "resolution": "8MP",
+        "lens_type": "2.8 to 13.5mm Motorized Lens",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "nvr_compatibility": "All NVRs are supported",
+        "compliance": "RoHS Compliant",
+        "features": [
+          "Smart Dual Night Vision",
+          "Motorized Vari-focal Lens (2.8-13.5mm)",
+          "Real-Time Automated Alert",
+          "Zone Fencing",
+          "Loiter Detection",
+          "Crowd Detection",
+          "Trespassing Detection",
+          "In-Built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "RoHS Compliant",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "AI Detection",
+        "Motorized Vari-focal",
+        "Audio",
+        "Metal Body",
+        "60m Night Vision",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-6.png"
+    },
+    {
+      "id": "HSO-IP5MV-NEW",
+      "name": "HSO 5MP IP Motorized Vari-focal Bullet Camera (Lens: 2.8 - 13.5 mm)",
+      "model_number": "HSO-00000007",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Motorized Vari-Focal AI Network Bullet Camera with Smart Dual Night Vision. Features advanced AI detection capabilities including zone fencing, loiter detection, crowd detection, and trespassing detection. Motorized 2.8-13.5mm lens for flexible coverage, metal body construction, and real-time automated alerts.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "2.8 to 13.5mm Motorized Lens",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "nvr_compatibility": "All NVRs are supported",
+        "compliance": "RoHS Compliant",
+        "features": [
+          "Smart Dual Night Vision",
+          "Motorized Vari-focal Lens (2.8-13.5mm)",
+          "Real-Time Automated Alert",
+          "Zone Fencing",
+          "Loiter Detection",
+          "Crowd Detection",
+          "Trespassing Detection",
+          "In-Built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "RoHS Compliant",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "AI Detection",
+        "Motorized Vari-focal",
+        "Audio",
+        "Metal Body",
+        "60m Night Vision",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-6.png"
+    },
+    {
+      "id": "HSO-IP12LL-NEW",
+      "name": "HSO 12MP IP Low Light Color Bullet Camera",
+      "model_number": "HSO-00000008",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "12MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Low Light Network Bullet Camera. Features advanced low light technology for superior color night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "12MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "Low Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Low Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "12MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-8.png"
+    },
+    {
+      "id": "HSO-IP4WDR-NEW",
+      "name": "HSO 4MP IP WDR Color + Audio Dome Camera",
+      "model_number": "HSO-00000009",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "4MP WDR Color + Audio Dome Network Camera with Smart Dual Night Vision. Features up to 120 dB WDR for superior image quality in challenging lighting conditions, built-in microphone, metal body construction, ONVIF support, POE for easy connectivity, and supports MicroSD card up to 512GB.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "2.8mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "wdr": "Up to 120 dB WDR",
+        "storage": "Supports MicroSD Card (Up to 512 GB)",
+        "features": [
+          "Smart Dual Night Vision",
+          "Up to 120 dB WDR",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MicroSD Card Support (Up to 512 GB)",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "WDR",
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MicroSD Card",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-7.png"
+    },
+    {
+      "id": "HSO-IP5B-NEW",
+      "name": "HSO 5MP IP In-Built Audio and Color Bullet Camera (6mm)",
+      "model_number": "HSO-00000010",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "5MP IP AUDIO AND COLOR BULLET CAMERA with Smart Dual Night Vision. Features built-in microphone, metal body construction, 6mm fixed lens, ONVIF support, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "5MP",
+        "pixels": "2880 x 1616",
+        "lens_type": "6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 30 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 30 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Metal Body",
+        "5MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-9.png"
+    },
+    {
+      "id": "HSO-IP5B36-NEW",
+      "name": "HSO 5MP IP In-Built Audio and Color Bullet Camera",
+      "model_number": "HSO-00000011",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "5MP IP AUDIO AND COLOR BULLET CAMERA with Smart Dual Night Vision. Features built-in microphone, metal body construction, 3.6mm fixed lens, ONVIF support, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "5MP",
+        "pixels": "2880 x 1616",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 25 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Metal Body",
+        "5MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-8.png"
+    },
+    {
+      "id": "HSO-IP5D-NEW",
+      "name": "HSO 5MP IP In-Built Audio and Color Dome Camera",
+      "model_number": "HSO-00000012",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "5MP IP AUDIO AND COLOR DOME CAMERA with Smart Dual Night Vision. Features built-in microphone, half metal body construction, 3.6mm fixed lens, ONVIF support, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "5MP",
+        "pixels": "2880 x 1616",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Half Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Half Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 25 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Half Metal Body",
+        "5MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-9.png"
+    },
+    {
+      "id": "HSO-IP6FE-NEW",
+      "name": "HSO 6MP IP Color Fisheye Dome Camera",
+      "model_number": "HSO-00000013",
+      "category": "IP Camera",
+      "camera_type": "Fisheye",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Fisheye Dome Camera with Smart Dual Night Vision. Features 165° ultra-wide field of view, 1.8mm lens, in-built audio, metal body construction, ONVIF support, POE for easy connectivity, and auto dual IR-cut filter.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165° Field-of-View",
+        "night_vision": "20 meters",
+        "power_voltage": "DC12V",
+        "material": "Metal Body",
+        "encoding": "H.264/H.265",
+        "regulation": "NTSC/PAL",
+        "filter": "Day/Night Auto Dual IR-cut filter",
+        "features": [
+          "Smart Dual Night Vision",
+          "165° Field-of-View",
+          "In-Built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Support LAN Wire",
+          "Support Audio Connection",
+          "Onvif Protocol",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Fisheye",
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "165° FOV",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-10.png"
+    },
+    {
+      "id": "HSO-IP6MV-NEW",
+      "name": "HSO 6MP IP Motorized Vari-focal Bullet Camera (Lens: 2.8 - 13.5 mm)",
+      "model_number": "HSO-00000014",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Motorized Vari-focal Network Bullet Camera with Smart Dual Night Vision. Features motorized 2.8-13.5mm lens for flexible coverage, metal body construction, in-built audio, ONVIF support, and supports all NVRs.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "2.8 to 13.5mm Motorized Lens",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "nvr_compatibility": "All NVRs are supported",
+        "compliance": "RoHS Compliant",
+        "features": [
+          "Smart Dual Night Vision",
+          "Motorized Vari-focal Lens (2.8-13.5mm)",
+          "In-Built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "RoHS Compliant",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Motorized Vari-focal",
+        "Audio",
+        "Metal Body",
+        "60m Night Vision",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-11.png"
+    },
+    {
+      "id": "HSO-IP6B12-NEW",
+      "name": "HSO 6MP IP Bullet Camera (Lens: 12mm)",
+      "model_number": "HSO-00000015",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features 12mm fixed lens for long-range surveillance, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "12mm Fixed",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "ip_address": "192.168.1.100",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Night Vision 60mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "POE",
+        "60m Night Vision",
+        "12mm Lens",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-14.png"
+    },
+    {
+      "id": "HSO-IP6B8-NEW",
+      "name": "HSO 6MP IP Bullet Camera (Lens: 8mm)",
+      "model_number": "HSO-00000016",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features 8mm fixed lens for medium-range surveillance, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "8mm Fixed",
+        "night_vision": "40 meters",
+        "power_voltage": "12V DC",
+        "ip_address": "192.168.1.100",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Night Vision 40mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "POE",
+        "40m Night Vision",
+        "8mm Lens",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-12.png"
+    },
+    {
+      "id": "HSO-IP2D-NEW",
+      "name": "HSO 2MP IP In-Built Audio and Color Dome Camera",
+      "model_number": "HSO-00000017",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "2MP IP AUDIO AND COLOR DOME CAMERA with Smart Dual Night Vision. Features built-in microphone, half metal body construction, ONVIF support, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "2MP",
+        "max_resolution": "1920 x 1080",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Half Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Half Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 25 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Half Metal Body",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-14.png"
+    },
+    {
+      "id": "HSO-IP6FEB-NEW",
+      "name": "HSO 6MP IP Color Fisheye Bullet Camera",
+      "model_number": "HSO-00000018",
+      "category": "IP Camera",
+      "camera_type": "Fisheye",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Fisheye Bullet Camera with Smart Dual Night Vision. Features 165° ultra-wide field of view, 1.8mm lens, in-built audio, metal body construction, ONVIF support, POE for easy connectivity, and auto dual IR-cut filter.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165° Field-of-View",
+        "night_vision": "20 meters",
+        "power_voltage": "DC12V",
+        "material": "Metal Body",
+        "encoding": "H.264/H.265",
+        "regulation": "NTSC/PAL",
+        "filter": "Day/Night Auto Dual IR-cut filter",
+        "features": [
+          "Smart Dual Night Vision",
+          "165° Field-of-View",
+          "In-Built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Support LAN Wire",
+          "Support Audio Connection",
+          "Onvif Protocol",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Fisheye",
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "165° FOV",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-15.png"
+    },
+    {
+      "id": "HSO-IP6B36-NEW",
+      "name": "HSO 6MP IP In-Built Audio and Color Bullet Camera",
+      "model_number": "HSO-00000019",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features built-in microphone, metal body construction, 3.6mm fixed lens, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "3.6mm Fixed",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-16.png"
+    },
+    {
+      "id": "HSO-IP6D28-NEW",
+      "name": "HSO 6MP IP In-Built Audio and Color Dome Camera",
+      "model_number": "HSO-00000020",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "6MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Dome Camera with Smart Dual Night Vision. Features built-in microphone, metal body construction, 2.8mm fixed lens, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "6MP",
+        "lens_type": "2.8mm Fixed",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE - Easy to connect",
+          "Night Vision 30mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "30m Night Vision",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-17.png"
+    },
+    {
+      "id": "HSO-IP4MV-NEW",
+      "name": "HSO 4MP IP Motorized Vari-focal Bullet Camera (Lens: 2.8 - 13.5 mm)",
+      "model_number": "HSO-00000021",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Motorized Vari-focal Network Bullet Camera with Smart Dual Night Vision. Features motorized 2.8-13.5mm lens for flexible coverage, metal body construction, in-built audio, ONVIF support, and supports all NVRs.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "2.8 to 13.5mm Motorized Lens",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "nvr_compatibility": "All NVRs are supported",
+        "compliance": "RoHS Compliant",
+        "features": [
+          "Smart Dual Night Vision",
+          "Motorized Vari-focal Lens (2.8-13.5mm)",
+          "In-Built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "RoHS Compliant",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Motorized Vari-focal",
+        "Audio",
+        "Metal Body",
+        "60m Night Vision",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-19.png"
+    },
+    {
+      "id": "HSO-IP8LL-NEW",
+      "name": "HSO 8MP IP Low Light Color Bullet Camera",
+      "model_number": "HSO-00000022",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "8MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Low Light Network Bullet Camera. Features advanced low light technology for superior color night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "8MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "Low Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Low Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "8MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-18.png"
+    },
+    {
+      "id": "HSO-IP8LLD-NEW",
+      "name": "HSO 8MP IP Low Light Color Dome Camera",
+      "model_number": "HSO-00000023",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "8MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Low-Light Network Dome Camera. Features advanced low light technology for superior color night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "8MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "Low Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Low Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "8MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-19.png"
+    },
+    {
+      "id": "HSO-IP3B6-NEW",
+      "name": "HSO 3MP IP Bullet Camera (6mm Lens)",
+      "model_number": "HSO-00000024",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "3MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "IP BULLET CAMERA with Smart Dual Night Vision. Features built-in microphone, metal body construction, 6mm fixed lens, ONVIF support, weatherproof IP67 rating, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "3MP",
+        "max_resolution": "2560 x 1440",
+        "lens_type": "6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "weatherproof": "IP 67",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "IP 67 Weather-proof",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 25 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "IP67",
+        "6mm Lens",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-20.png"
+    },
+    {
+      "id": "HSO-IP4LLD-NEW",
+      "name": "HSO 4MP IP Low Light Color Dome Camera",
+      "model_number": "HSO-00000025",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Low-Light Network Dome Camera. Features advanced low light technology for superior color night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "Low Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Low Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-21.png"
+    },
+    {
+      "id": "HSO-IP4LLB-NEW",
+      "name": "HSO 4MP IP Low Light Color Bullet Camera",
+      "model_number": "HSO-00000026",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Color Night Vision in Low Light Network Bullet Camera. Features advanced low light technology for superior color night vision, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "Low Light Technology",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Low Light",
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-22.png"
+    },
+    {
+      "id": "HSO-IP4FEB-NEW",
+      "name": "HSO 4MP IP Color Fisheye Bullet Camera",
+      "model_number": "HSO-00000027",
+      "category": "IP Camera",
+      "camera_type": "Fisheye",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Fisheye Bullet Camera with Smart Dual Night Vision. Features 165° ultra-wide field of view, 1.8mm lens, metal body construction, ONVIF support, POE for easy connectivity, and auto dual IR-cut filter.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165° Field-of-View",
+        "night_vision": "20 meters",
+        "power_voltage": "DC12V",
+        "material": "Metal Body",
+        "encoding": "H.264/H.265",
+        "regulation": "NTSC/PAL",
+        "filter": "Day/Night Auto Dual IR-cut filter",
+        "features": [
+          "Smart Dual Night Vision",
+          "165° Field-of-View",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Support LAN Wire",
+          "Support Audio Connection",
+          "Onvif Protocol",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Fisheye",
+        "Color",
+        "Metal Body",
+        "POE",
+        "165° FOV",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-23.png"
+    },
+    {
+      "id": "HSO-IP4FED-NEW",
+      "name": "HSO 4MP IP Color Fisheye Dome Camera",
+      "model_number": "HSO-00000028",
+      "category": "IP Camera",
+      "camera_type": "Fisheye",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Fisheye Dome Camera with Smart Dual Night Vision. Features 165° ultra-wide field of view, 1.8mm lens, metal body construction, ONVIF support, POE for easy connectivity, and auto dual IR-cut filter.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165° Field-of-View",
+        "night_vision": "20 meters",
+        "power_voltage": "DC12V",
+        "material": "Metal Body",
+        "encoding": "H.264/H.265",
+        "regulation": "NTSC/PAL",
+        "filter": "Day/Night Auto Dual IR-cut filter",
+        "features": [
+          "Smart Dual Night Vision",
+          "165° Field-of-View",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Support LAN Wire",
+          "Support Audio Connection",
+          "Onvif Protocol",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Fisheye",
+        "Color",
+        "Metal Body",
+        "POE",
+        "165° FOV",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-24.png"
+    },
+    {
+      "id": "HSO-IP3D-NEW",
+      "name": "HSO 3MP IP Dome Camera",
+      "model_number": "HSO-00000029",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "3MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "IP DOME CAMERA with Smart Dual Night Vision. Features built-in microphone, metal body construction, 3.6mm fixed lens, ONVIF support, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "3MP",
+        "max_resolution": "2560 x 1440",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 25 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "3MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-25.png"
+    },
+    {
+      "id": "HSO-IP3B-NEW",
+      "name": "HSO 3MP IP Bullet Camera",
+      "model_number": "HSO-00000030",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "3MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "IP BULLET CAMERA with Smart Dual Night Vision. Features built-in microphone, metal body construction, 3.6mm fixed lens, ONVIF support, weatherproof IP67 rating, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "3MP",
+        "max_resolution": "2560 x 1440",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "weatherproof": "IP 67",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "H.265+/H.265/H.264+/H.264",
+          "IP 67 Weather-proof",
+          "VBR/CBR Bit Rate Control",
+          "IR Range Up to 25 Mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "IP67",
+        "3MP Resolution",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-26.png"
+    },
+    {
+      "id": "HSO-IP4DA-NEW",
+      "name": "HSO 4MP IP Dome Alarm Camera",
+      "model_number": "HSO-00000031",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Dome Camera with RED/BLUE LIGHT AND SIREN. Features Smart Dual Night Vision, built-in microphone, metal body construction, ONVIF support, in-built 6 types of alarm, motion detection, and email alert capabilities.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "2.8mm Fixed",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "RED/BLUE LIGHT AND SIREN",
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "In-built 6 Types Of Alarm",
+          "Motion Detection",
+          "Email Alert",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Alarm",
+        "Red/Blue Light",
+        "Siren",
+        "Motion Detection",
+        "Email Alert",
+        "Audio",
+        "Metal Body",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-27.png"
+    },
+    {
+      "id": "HSO-IP4BA-NEW",
+      "name": "HSO 4MP IP Bullet Alarm Camera",
+      "model_number": "HSO-00000032",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with SIREN and STROBE LIGHT (RED/BLUE). Features Smart Dual Night Vision, in-built audio, ONVIF support, in-built 6 types of alarm, motion detection, and email alert capabilities.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "features": [
+          "SIREN",
+          "STROBE LIGHT (RED/BLUE)",
+          "In-built 6 Types Of Alarm",
+          "Smart Dual Night Vision",
+          "In-built Audio",
+          "ONVIF Support",
+          "Motion Detection",
+          "Email Alert",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Alarm",
+        "Siren",
+        "Strobe Light",
+        "Motion Detection",
+        "Email Alert",
+        "Audio",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-28.png"
+    },
+    {
+      "id": "HSO-IP4B12-NEW",
+      "name": "HSO 4MP IP Bullet Camera (12mm Fixed)",
+      "model_number": "HSO-00000033",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features 12mm fixed lens for long-range surveillance, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "12mm Fixed",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "ip_address": "192.168.1.100",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Night Vision 60mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "POE",
+        "60m Night Vision",
+        "12mm Lens",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-30.png"
+    },
+    {
+      "id": "HSO-IP4B8-NEW",
+      "name": "HSO 4MP IP Bullet Camera (8mm Fixed)",
+      "model_number": "HSO-00000034",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features 8mm fixed lens for medium-range surveillance, built-in microphone, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "8mm Fixed",
+        "night_vision": "40 meters",
+        "power_voltage": "12V DC",
+        "ip_address": "192.168.1.100",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "Night Vision 40mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "POE",
+        "40m Night Vision",
+        "8mm Lens",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-29.png"
+    },
+    {
+      "id": "HSO-IP4B6-NEW",
+      "name": "HSO 4MP IP Bullet Camera (6mm Fixed)",
+      "model_number": "HSO-00000035",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features 6mm fixed lens, built-in microphone, metal body construction, ONVIF support, POE for easy connectivity, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "6mm Fixed",
+        "field_of_view": "51° horizontal",
+        "night_vision": "40 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "Night Vision 40mtr",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Audio",
+        "Metal Body",
+        "POE",
+        "40m Night Vision",
+        "6mm Lens",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-31.png"
+    },
+    {
+      "id": "HSO-IP4DLED-NEW",
+      "name": "HSO 4MP Dual Smart LED IP Color Bullet Camera",
+      "model_number": "HSO-00000036",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Bullet Camera with Smart Dual Night Vision. Features dual smart LED for enhanced color imaging, in-built audio, metal body construction, ONVIF support, POE for easy connectivity, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85° horizontal",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Dual Smart LED",
+          "In-built Audio",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Smart LED",
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-30.png"
+    },
+    {
+      "id": "HSO-IP4DLEDD-NEW",
+      "name": "HSO 4MP Dual Smart LED IP Color Dome Camera",
+      "model_number": "HSO-00000037",
+      "category": "IP Camera",
+      "camera_type": "Dome",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "Network Dome Camera with Smart Dual Night Vision. Features dual smart LED for enhanced color imaging, built-in microphone, metal body construction, ONVIF support, POE for easy connectivity, and advanced H.265+ compression for efficient storage.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "2.8mm / 3.6mm Fixed",
+        "field_of_view": "110° horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "compression": "H.265+/H.265/H.264+/H.264",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Smart Dual Night Vision",
+          "Dual Smart LED",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "H.265+/H.265/H.264+/H.264",
+          "VBR/CBR Bit Rate Control",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Smart LED",
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-31.png"
+    },
+    {
+      "id": "HSO-IP4WDRB-NEW",
+      "name": "HSO 4MP IP WDR Color + Audio Bullet Camera",
+      "model_number": "HSO-00000038",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "In-Built",
+      "connectivity": "IP",
+      "description": "4MP WDR Color + Audio Bullet Network Camera with Smart Dual Night Vision. Features up to 120 dB WDR for superior image quality in challenging lighting conditions, built-in microphone, metal body construction, ONVIF support, POE for easy connectivity, and supports MicroSD card up to 512GB.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "wdr": "Up to 120 dB WDR",
+        "storage": "Supports MicroSD Card (Up to 512 GB)",
+        "features": [
+          "Smart Dual Night Vision",
+          "Up to 120 dB WDR",
+          "Built-in Mic",
+          "Metal Body",
+          "ONVIF Support",
+          "POE Support - Easy to connect",
+          "MicroSD Card Support (Up to 512 GB)",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "WDR",
+        "Color",
+        "Audio",
+        "Metal Body",
+        "POE",
+        "MicroSD Card",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "ip-32.png"
+    },
+    {
+      "id": "HSO-IP4DES-NEW",
+      "name": "HSO 4MP IP 2-Way Audio Bullet Camera (Supports External Speaker)",
+      "model_number": "HSO-00000070",
+      "category": "IP Camera",
+      "camera_type": "Bullet",
+      "resolution": "4MP",
+      "audio": "2-Way",
+      "connectivity": "IP",
+      "description": "TWO-WAY NETWORK BULLET CAMERA - Network Bullet Camera with High-Definition Image Sensor. Supports External Speaker for enhanced two-way communication. Features built-in mic and external speaker support, smart dual night vision, metal body construction, ONVIF support, and POE for easy connectivity.",
+      "specifications": {
+        "resolution": "4MP",
+        "lens_type": "2.8mm Fixed",
+        "night_vision": "25 meters",
+        "power_voltage": "12V DC",
+        "ip_address": "192.168.1.100",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic and Supports External Speaker (Two-way)",
+          "High-Definition Image Sensor",
+          "Metal Body",
+          "ONVIF Support",
+          "POE - Easy to connect",
+          "MAKE IN INDIA"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Two-Way Audio",
+        "External Speaker Support",
+        "Metal Body",
+        "POE",
+        "MAKE IN INDIA"
+      ],
+      "status": "active",
+      "image": "IP-2.png"
+    },
+    {
+      "id": "HSO-HD2P001",
+      "name": "HSO 2MP HD Audio PT Dome Camera",
+      "model_number": "HSO-00000039",
+      "category": "HD Camera",
+      "camera_type": "PT",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "2MP HD Full Color Pan/Tilt Camera with built-in microphone for comprehensive surveillance coverage. Features pan and tilt functionality for flexible monitoring, HD full color imaging, and extended IR range. Supports all brand DVR & XVR systems. Made in India with reliable warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "max_resolution": "1920 \u00d7 1080",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "Up to 25 meters",
+        "power_voltage": "12V DC",
+        "dvr_compatibility": "Supports All Brand DVR & XVR",
+        "features": [
+          "HD Full Color",
+          "Built-in Mic",
+          "Pan/Tilt Functionality",
+          "IR Range Up to 25 Mtr"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "PT",
+        "Full Color",
+        "Audio"
+      ],
+      "status": "active",
+      "image": "HSO-HD2P001.jpeg"
+    },
+    {
+      "id": "HSO-HD2D003",
+      "name": "HSO 2MP HD Color & Audio Dome Camera with OSD",
+      "model_number": "HSO-00000040",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Dome Camera with OSD button for easy TVI/CVI switching. Supports all brand DVR coaxial audio systems. Features color night vision, in-built audio, and plastic body construction. Perfect for versatile indoor surveillance installations. Made in India with 2-year warranty.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "bit_rate_control": "VBR or CBR",
+        "dvr_compatibility": "Supports all brand DVR coaxial audio TVI/CVI",
+        "osd_button": "Change TVI to CVI",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "OSD Button for TVI/CVI Switching",
+          "Coaxial Audio Support",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "OSD Button",
+        "Night Vision",
+        "TVI/CVI Compatible"
+      ],
+      "status": "active",
+      "image": "HSO 2MP HD Color and Audio Dome Camera with OSD Button ST-VD HD2001WLA-OSD.png"
+    },
+    {
+      "id": "HSO-HD5F004",
+      "name": "HSO 2MP HD Color Audio Dome Fisheye Camera",
+      "model_number": "HSO-00000041",
+      "category": "HD Camera",
+      "camera_type": "Fisheye",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Fisheye Audio Dome Camera with 165\u00b0 ultra-wide field of view for comprehensive surveillance coverage. Features built-in microphone, advanced night vision up to 20 meters, and weatherproof IP66 rating. Perfect for monitoring large areas with minimal cameras. Made in India with reliable warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165\u00b0",
+        "night_vision": "20 meters",
+        "min_illumination": "0.01 Lux/F1.2 (IR ON)",
+        "transmission": "Up to 500 meters lossless transmission with 75-3 coax",
+        "sensor": "CMOS Sensor",
+        "weatherproof": "IP 66",
+        "features": [
+          "Built-in Microphone",
+          "165\u00b0 Field-of-View",
+          "2D Noise Reduction",
+          "Lightning Protection",
+          "Anti-fog Function",
+          "Multiple Angle Adjustment"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Fisheye",
+        "Audio",
+        "Night Vision"
+      ],
+      "status": "active",
+      "image": "HSO 2MP HD Color Audio Dome Fisheye Camera ST-VD HD2002WLA-FE.png"
+    },
+    {
+      "id": "HSO-HD5F005",
+      "name": "HSO 5MP HD Color Audio Bullet Fisheye Camera",
+      "model_number": "HSO-00000042",
+      "category": "HD Camera",
+      "camera_type": "Fisheye",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Fisheye Audio Bullet Camera with 165\u00b0 ultra-wide field of view for comprehensive surveillance coverage. Features built-in microphone, advanced night vision up to 20 meters, and weatherproof IP66 rating. Perfect for monitoring large areas with minimal cameras. Made in India with reliable warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165\u00b0",
+        "night_vision": "20 meters",
+        "min_illumination": "0.01 Lux/F1.2 (IR ON)",
+        "transmission": "Up to 500 meters lossless transmission with 75-3 coax",
+        "sensor": "CMOS Sensor",
+        "weatherproof": "IP 66",
+        "features": [
+          "Built-in Microphone",
+          "165\u00b0 Field-of-View",
+          "2D Noise Reduction",
+          "Lightning Protection",
+          "Anti-fog Function",
+          "Multiple Angle Adjustment"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Fisheye",
+        "Audio",
+        "Night Vision"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Color Audio Bullet Fisheye Camera ST-VB HD5002WLA-FE.png"
+    },
+    {
+      "id": "HSO-HD2B009",
+      "name": "HSO 2MP HD Color & Audio Bullet Camera with OSD",
+      "model_number": "HSO-00000043",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with OSD button for easy TVI/CVI switching. Supports all brand DVR coaxial audio TVI/CVI systems. Features color night vision, in-built audio, and plastic body construction. Perfect for versatile surveillance installations. Made in India with reliable warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "bit_rate_control": "VBR or CBR",
+        "dvr_compatibility": "Supports all brand DVR coaxial audio TVI/CVI",
+        "osd_button": "Change TVI to CVI",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "OSD Button for TVI/CVI Switching",
+          "Coaxial Audio Support",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio",
+        "OSD Button",
+        "Night Vision",
+        "TVI/CVI Compatible"
+      ],
+      "status": "active",
+      "image": "HSO 2MP HD Color and Audio Bullet Camera with OSD Button ST-VB HD2001WLA-OSD.png"
+    },
+    {
+      "id": "HSO-HD2F011",
+      "name": "HSO 2MP HD Color Audio Bullet Fisheye Camera",
+      "model_number": "HSO-00000044",
+      "category": "HD Camera",
+      "camera_type": "Fisheye",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Fisheye Audio Bullet Camera with 165\u00b0 ultra-wide field of view for comprehensive surveillance coverage. Features 1.8mm fixed lens, built-in microphone, advanced night vision up to 20 meters, and weatherproof IP66 rating. Supports up to 500 meters lossless transmission with 75-3 coax cable. CMOS sensor with 0.01 Lux/F1.2 minimum illumination. Advanced features include 2D noise reduction, lightning protection, anti-fog function, and multiple angle adjustment. Perfect for monitoring large areas with minimal cameras. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165\u00b0",
+        "night_vision": "20 meters",
+        "min_illumination": "0.01 Lux/F1.2 (IR ON)",
+        "transmission": "Up to 500 meters lossless transmission with 75-3 coax",
+        "sensor": "CMOS Sensor",
+        "weatherproof": "IP 66",
+        "features": [
+          "Built-in Microphone",
+          "165\u00b0 Field-of-View",
+          "2D Noise Reduction",
+          "Lightning Protection",
+          "Anti-fog Function",
+          "Multiple Angle Adjustment"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Fisheye",
+        "Audio",
+        "Night Vision"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Color Audio Bullet Fisheye Camera ST-VB HD5002WLA-FE.png"
+    },
+    {
+      "id": "HSO-HD2D013",
+      "name": "HSO 2MP HD Color & Audio Dome Camera",
+      "model_number": "HSO-00000045",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "2MP HD Color & Audio Dome Camera with universal DVR compatibility. Supports all brand DVR coaxial audio TVI/CVI systems for maximum flexibility. Features 3.6mm fixed lens with 85\u00b0 horizontal field of view, color night vision up to 20 meters, and in-built audio for comprehensive surveillance. Plastic body construction with VBR or CBR bit rate control. Powered by 12V DC. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "bit_rate_control": "VBR or CBR",
+        "dvr_compatibility": "Supports all brand DVR coaxial audio TVI/CVI",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "Coaxial Audio Support",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "TVI/CVI Compatible"
+      ],
+      "status": "active",
+      "image": "HSO 2MP HD Color and Audio Dome Camera ST-VD HD2001WLA.png"
+    },
+    {
+      "id": "HSO-HD5D014",
+      "name": "HSO 5MP HD Color In-Built Audio Dome Camera",
+      "model_number": "HSO-00000046",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "5MP HD Color In-Built Audio Dome Camera with 1/3\" 5.0 Mega Pixels CMOS sensor for superior image quality. Features 3.6mm fixed lens, color night vision, and in-built audio for comprehensive surveillance. Supports up to 500 meters lossless transmission with 75-3 coax cable. Plastic body construction with advanced features including 2D noise reduction, lightning protection, anti-fog function, and angle adjustment. Powered by 12V DC. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "5MP",
+        "pixels": "1/3\" 5.0 Mega Pixels",
+        "lens_type": "3.6mm Fixed",
+        "min_illumination": "0.01 Lux/F1.2 (IR ON)",
+        "transmission": "Up to 500 meters lossless transmission with 75-3 coax",
+        "sensor": "CMOS Sensor",
+        "material": "Plastic Body",
+        "power_voltage": "12V DC",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "2D Noise Reduction",
+          "Lightning Protection",
+          "Anti-fog Function",
+          "Angle Adjustment"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "5MP Resolution"
+      ],
+      "status": "active",
+      "image": "HSO Color 5MP In-built Audio HD Dome Camera ST-VD HD5002WLA.png"
+    },
+    {
+      "id": "HSO-HD5F015",
+      "name": "HSO 5MP HD Color Audio Dome Fisheye Camera",
+      "model_number": "HSO-00000047",
+      "category": "HD Camera",
+      "camera_type": "Fisheye",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Fisheye Audio Dome Camera with 165\u00b0 ultra-wide field of view for comprehensive surveillance coverage. Features 1.8mm fixed lens, built-in microphone, advanced night vision up to 20 meters, and weatherproof IP66 rating. Supports up to 500 meters lossless transmission with 75-3 coax cable. CMOS sensor with 0.01 Lux/F1.2 minimum illumination. Advanced features include 2D noise reduction, lightning protection, anti-fog function, and multiple angle adjustment. Perfect for monitoring large areas with minimal cameras. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "1.8mm Fixed",
+        "field_of_view": "165\u00b0",
+        "night_vision": "20 meters",
+        "min_illumination": "0.01 Lux/F1.2 (IR ON)",
+        "transmission": "Up to 500 meters lossless transmission with 75-3 coax",
+        "sensor": "CMOS Sensor",
+        "weatherproof": "IP 66",
+        "features": [
+          "Built-in Microphone",
+          "165\u00b0 Field-of-View",
+          "2D Noise Reduction",
+          "Lightning Protection",
+          "Anti-fog Function",
+          "Multiple Angle Adjustment"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Fisheye",
+        "Audio",
+        "Night Vision"
+      ],
+      "status": "active",
+      "image": "HSO 2MP HD Color Audio Dome Fisheye Camera ST-VD HD2002WLA-FE.png"
+    },
+    {
+      "id": "HSO-HD2D016",
+      "name": "HSO 2MP HD Dual Light Audio Dome Camera",
+      "model_number": "HSO-00000048",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Dome Camera with Smart Dual Night Vision technology for superior low-light performance. Features built-in microphone for audio recording, 3.6mm fixed lens, and 20-meter night vision range. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "HD Dome Camera"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Light",
+        "Audio"
+      ],
+      "status": "active",
+      "image": "HSO 2MP HD Dual Light Audio Dome Camera ST-VD HD2002DLA.png"
+    },
+    {
+      "id": "HSO-HD2B017",
+      "name": "HSO 2MP HD Color and Audio Bullet Camera",
+      "model_number": "HSO-00000049",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with universal DVR compatibility. Supports all brand DVR coaxial audio TVI/CVI systems for maximum flexibility. Features 3.6mm fixed lens with 85\u00b0 horizontal field of view, color night vision up to 20 meters, and in-built audio for comprehensive surveillance. Plastic body construction with VBR or CBR bit rate control. Powered by 12V DC. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "bit_rate_control": "VBR or CBR",
+        "dvr_compatibility": "Supports all brand DVR coaxial audio TVI/CVI",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "Coaxial Audio Support",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "TVI/CVI Compatible"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Dual Light Audio Bullet Camera ST-VB HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD5D018",
+      "name": "HSO 5MP HD Dual Light Audio Dome Camera",
+      "model_number": "HSO-00000050",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Dome Camera with Smart Dual Night Vision technology for superior low-light performance. This camera works with all DVRs and other brands with 5MP Actual DVR support. Smart features work with DVR only. Features built-in microphone for audio surveillance, 3.6mm fixed lens, and 20-meter night vision range. Powered by 12V DC for reliable operation. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "dvr_compatibility": "Works with all DVRs and other brands (5MP Actual DVR)",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Microphone",
+          "Universal DVR Compatibility"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Light",
+        "Audio",
+        "Smart Features"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Dual Light Audio Dome Camera ST-VD HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD5B019",
+      "name": "HSO 5MP HD Dual Light Audio Bullet Camera",
+      "model_number": "HSO-00000051",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "5MP HD Dual Light Audio Bullet Camera with Smart Dual Night Vision technology for superior low-light performance. Features in-built audio for comprehensive surveillance, 3.6mm fixed lens, and 20-meter night vision range. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "features": [
+          "Smart Dual Night Vision",
+          "In-Built Audio"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Light",
+        "Audio"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Dual Light Audio Bullet Camera ST-VB HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD2B029",
+      "name": "HSO 2MP HD Two-Way Audio Bullet Camera",
+      "model_number": "HSO-00000052",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "2-Way",
+      "connectivity": "HD",
+      "description": "Two-Way HD Bullet Camera with built-in microphone and speaker for interactive surveillance. Features color night vision, 2MP resolution, and reliable performance. Perfect for applications requiring two-way communication. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Color Night Vision",
+          "Built-in Mic and Speaker (Two-way)",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "2-Way Audio",
+        "Color Night Vision"
+      ],
+      "status": "active",
+      "image": "imageee.jpeg"
+    },
+    {
+      "id": "HSO-HD2E030",
+      "name": "HSO 2MP HD Two-Way Audio Eyeball Camera",
+      "model_number": "HSO-00000053",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "2MP",
+      "audio": "2-Way",
+      "connectivity": "HD",
+      "description": "Two-Way HD Eyeball Camera with built-in microphone and speaker for interactive surveillance. Features color night vision, 2MP resolution, and eyeball design for flexible positioning. Perfect for applications requiring two-way communication. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Color Night Vision",
+          "Built-in Mic and Speaker (Two-way)",
+          "VBR/CBR Bit Rate Control",
+          "Eyeball Design"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "2-Way Audio",
+        "Color Night Vision",
+        "Eyeball"
+      ],
+      "status": "active",
+      "image": "cctvimage-1.jpeg"
+    },
+    {
+      "id": "HSO-HD2B032",
+      "name": "HSO Color 2MP In-Built Audio HD Metal Bullet Camera",
+      "model_number": "HSO-00000054",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Color Night Vision Bullet Camera with metal body construction for durability. Features in-built audio, color night vision up to 20 meters, and 2MP resolution. Perfect for reliable surveillance with enhanced low-light performance. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "Metal Body Construction",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "Metal Body"
+      ],
+      "status": "active",
+      "image": "HSO 3MP IP Bullet Camera ST-VB IP3001DL.png"
+    },
+    {
+      "id": "HSO-HD2B033",
+      "name": "HSO 2MP HD Color In-Built Audio Bullet Camera (12mm)",
+      "model_number": "HSO-00000055",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with 12mm fixed lens for long-range surveillance. Features metal body construction, full color imaging, in-built audio, and extended night vision up to 60 meters. Perfect for perimeter security and parking lot monitoring. Made in India with reliable warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "12mm Fixed",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "In-Built Audio",
+          "Metal Body Construction",
+          "Full Colour",
+          "Long Range 60m Night Vision"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "Full Colour"
+      ],
+      "status": "active",
+      "lens": "12mm",
+      "image": "HSO 2MP HD Color In-Built Audio Bullet Camera ST-VB HD2002WLA12 (Lens 12mm).png"
+    },
+    {
+      "id": "HSO-HD2B034",
+      "name": "HSO 2MP HD Color In-Built Audio Bullet Camera (8mm)",
+      "model_number": "HSO-00000056",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with 8mm fixed lens for medium-range surveillance. Features metal body construction, full color imaging, in-built audio, and extended night vision up to 40 meters. Perfect for commercial and residential security applications. Made in India with reliable warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "8mm Fixed",
+        "night_vision": "40 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "In-Built Audio",
+          "Metal Body Construction",
+          "Full Colour",
+          "Medium Range 40m Night Vision"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "Full Colour"
+      ],
+      "status": "active",
+      "lens": "8mm",
+      "image": "HSO 2MP HD Color In-Built Audio Bullet Camera ST-VB HD2002WLA12 (Lens 12mm).png"
+    },
+    {
+      "id": "HSO-IP4D029",
+      "name": "HSO 5MP HD Dual Light Audio Metal Dome Camera",
+      "model_number": "HSO-00000057",
+      "category": "HD Camera",
+      "camera_type": "Dome",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "This camera works with all DVRs and other brands. 5 MP Actual DVR Smart Feature works with DVR only. HD Dome Camera with Smart Dual Night Vision technology and metal body construction for enhanced durability. Features built-in microphone for audio recording, 3.6mm fixed lens, and 20-meter night vision range. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "Built-in Mic",
+          "HD Dome Camera",
+          "Metal Body Construction",
+          "Works with all DVRs"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Light",
+        "Audio",
+        "Metal Body"
+      ],
+      "status": "active",
+      "image": "HSO 5MP IP In-Built Audio and Color Dome Camera ST-VD IP5001DL.png"
+    },
+    {
+      "id": "HSO-WF3D069",
+      "name": "HSO 3MP WiFi Bullet Camera",
+      "model_number": "HSO-00000058",
+      "category": "WiFi & 4G Camera",
+      "camera_type": "Bullet",
+      "resolution": "3MP",
+      "audio": "2-Way",
+      "connectivity": "WiFi",
+      "description": "Wi-Fi Bullet Camera with Smart Night Vision technology for superior low-light performance. Features 3.6mm fixed lens, 20-meter night vision range, and 2-way audio intercom for interactive surveillance. Supports audio/video recording with MicroSD card up to 256GB. Mobile app IP Pro for remote monitoring and control. Powered by 12V DC. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "3MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "storage": "Supports MicroSD Card (Up to 256 GB)",
+        "mobile_app": "IP Pro",
+        "features": [
+          "Smart Night Vision",
+          "Audio Video Recording",
+          "2-Way Audio Intercom",
+          "WiFi Connectivity",
+          "MicroSD Card Support"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "WiFi",
+        "2-Way Audio",
+        "Smart Night Vision",
+        "MicroSD Card"
+      ],
+      "status": "active",
+      "image": "WIFI CAMERA -2.png"
+    },
+    {
+      "id": "HSO-WF3B070",
+      "name": "HSO 3MP WiFi Dome Camera",
+      "model_number": "HSO-00000059",
+      "category": "WiFi & 4G Camera",
+      "camera_type": "Dome",
+      "resolution": "3MP",
+      "audio": "2-Way",
+      "connectivity": "WiFi",
+      "description": "Wi-Fi Dome Camera with Smart Night Vision technology for superior low-light performance. Features 2.8mm fixed lens, 20-meter night vision range, and 2-way audio intercom for interactive surveillance. Supports audio/video recording with MicroSD card up to 256GB. Mobile app IP Pro for remote monitoring and control. Powered by 12V DC. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "3MP",
+        "lens_type": "2.8mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "storage": "Supports MicroSD Card (Up to 256 GB)",
+        "mobile_app": "IP Pro",
+        "features": [
+          "Smart Night Vision",
+          "Audio Video Recording",
+          "2-Way Audio Intercom",
+          "WiFi Connectivity",
+          "MicroSD Card Support"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "WiFi",
+        "2-Way Audio",
+        "Smart Night Vision",
+        "MicroSD Card"
+      ],
+      "status": "active",
+      "image": "WIFI CAMERA -1.png"
+    },
+    {
+      "id": "HSO-WF4D071",
+      "name": "HSO 3MP 4G SIM Bullet Camera",
+      "model_number": "HSO-00000060",
+      "category": "WiFi & 4G Camera",
+      "camera_type": "Bullet",
+      "resolution": "3MP",
+      "audio": "2-Way",
+      "connectivity": "4G",
+      "description": "SMART 4G SIM BULLET CAMERA with Smart Dual Night Vision technology and human detection for intelligent surveillance. Features 3.6mm fixed lens, metal body construction for durability, and 2-way audio intercom for interactive monitoring. Supports all 4G SIM cards with audio/video recording capability. MicroSD card support up to 256GB for local storage. Mobile app IP Pro for remote access and control. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "3MP",
+        "lens_type": "3.6mm Fixed",
+        "material": "Metal Body",
+        "storage": "Supports MicroSD Card (Up to 256 GB)",
+        "mobile_app": "IP Pro",
+        "sim_support": "All 4G SIM Supported",
+        "features": [
+          "Smart Dual Night Vision",
+          "Audio Video Recording",
+          "2-Way Audio Intercom",
+          "Human Detection",
+          "4G SIM Connectivity",
+          "MicroSD Card Support",
+          "Metal Body Construction"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "4G SIM",
+        "2-Way Audio",
+        "Smart Dual Night Vision",
+        "Human Detection",
+        "Metal Body",
+        "MicroSD Card"
+      ],
+      "status": "active",
+      "image": "WIFI CAMERA -3.png"
+    },
+    {
+      "id": "HSO-WF3B072",
+      "name": "HSO 3MP 4G SIM Dome Camera",
+      "model_number": "HSO-00000061",
+      "category": "WiFi & 4G Camera",
+      "camera_type": "Dome",
+      "resolution": "3MP",
+      "audio": "2-Way",
+      "connectivity": "4G",
+      "description": "SMART 4G SIM DOME CAMERA with Smart Dual Night Vision technology and human detection for intelligent surveillance. Features 2.8mm fixed lens, metal body construction for durability, and 2-way audio intercom for interactive monitoring. Supports all 4G SIM cards with audio/video recording capability. MicroSD card support up to 256GB for local storage. Mobile app IP Pro for remote access and control. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "3MP",
+        "lens_type": "2.8mm Fixed",
+        "material": "Metal Body",
+        "storage": "Supports MicroSD Card (Up to 256 GB)",
+        "mobile_app": "IP Pro",
+        "sim_support": "All 4G SIM Supported",
+        "features": [
+          "Smart Dual Night Vision",
+          "Audio Video Recording",
+          "2-Way Audio Intercom",
+          "Human Detection",
+          "4G SIM Connectivity",
+          "MicroSD Card Support",
+          "Metal Body Construction"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "4G SIM",
+        "2-Way Audio",
+        "Smart Dual Night Vision",
+        "Human Detection",
+        "Metal Body",
+        "MicroSD Card"
+      ],
+      "status": "active",
+      "image": "WIFI CAMERA -4.png"
+    },
+    {
+      "id": "HSO-HD5B077",
+      "name": "HSO 5MP HD Color In-Built Audio Bullet Camera (8mm)",
+      "model_number": "HSO-00000062",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with Color Night Vision and metal body construction for enhanced durability. Features in-built audio for comprehensive surveillance, 8mm fixed lens for extended range, and 40-meter night vision. Full colour imaging with 5MP resolution. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "8mm Fixed",
+        "night_vision": "40 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "In-Built Audio",
+          "Full Colour",
+          "Metal Body Construction"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "Full Colour"
+      ],
+      "status": "active",
+      "lens": "8mm",
+      "image": "HSO 2MP HD Color In-Built Audio Bullet Camera ST-VB HD2002WLA12 (Lens 12mm).png"
+    },
+    {
+      "id": "HSO-HD5B078",
+      "name": "HSO 5MP HD Color In-Built Audio Bullet Camera (12mm)",
+      "model_number": "HSO-00000063",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with Color Night Vision and metal body construction for enhanced durability. Features in-built audio for comprehensive surveillance, 12mm fixed lens for long-range monitoring, and 60-meter night vision. Full colour imaging with 5MP resolution. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "12mm Fixed",
+        "night_vision": "60 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Color Night Vision",
+          "In-Built Audio",
+          "Full Colour",
+          "Metal Body Construction"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "Metal Body",
+        "Full Colour"
+      ],
+      "status": "active",
+      "lens": "12mm",
+      "image": "HSO 2MP HD Color In-Built Audio Bullet Camera ST-VB HD2002WLA12 (Lens 12mm).png"
+    },
+    {
+      "id": "HSO-HD2B079",
+      "name": "HSO 2MP HD Color In-Built Audio Bullet Camera (6mm)",
+      "model_number": "HSO-00000064",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with color imaging and in-built audio for comprehensive surveillance. Features 6mm fixed lens for optimal field of view, 30-meter night vision range, and 2MP resolution. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "6mm Fixed",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "features": [
+          "Built-in Mic",
+          "HD Bullet Camera"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color",
+        "Audio"
+      ],
+      "status": "active",
+      "lens": "6mm",
+      "image": "HSO 5MP HD Dual Light Audio Bullet Camera ST-VB HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD2B080",
+      "name": "HSO Color 2MP In-Built Audio HD Bullet Camera",
+      "model_number": "HSO-00000065",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Color Night Vision Bullet Camera with in-built audio for comprehensive surveillance. Features 3.6mm fixed lens with 85\u00b0 horizontal field of view, color night vision up to 20 meters, and plastic body construction. Supports VBR or CBR bit rate control. Powered by 12V DC. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "bit_rate_control": "VBR or CBR",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Dual Light Audio Bullet Camera ST-VB HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD5B081",
+      "name": "HSO 5MP HD Dual Light Audio Metal Bullet Camera",
+      "model_number": "HSO-00000066",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "This camera works with all DVRs and other brands. 5 MP Actual DVR Smart Feature works with DVR only. HD Bullet Camera with Smart Dual Night Vision technology and metal body construction for enhanced durability. Features in-built audio for comprehensive surveillance, 3.6mm fixed lens, and 20-meter night vision range. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Metal Body",
+        "features": [
+          "Smart Dual Night Vision",
+          "In-Built Audio",
+          "HD Bullet Camera",
+          "Metal Body Construction",
+          "Works with all DVRs"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Dual Light",
+        "Audio",
+        "Metal Body"
+      ],
+      "status": "active",
+      "image": "hsooo.jpeg"
+    },
+    {
+      "id": "HSO-HD5B082",
+      "name": "HSO 5MP HD Color In-Built Audio Bullet Camera (6mm)",
+      "model_number": "HSO-00000067",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with Color Night Vision and in-built audio for comprehensive surveillance. Features 6mm fixed lens for optimal field of view, 30-meter night vision range, and CMOS sensor for superior image quality. Plastic body construction with 5MP resolution. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "6mm Fixed",
+        "night_vision": "30 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "sensor": "CMOS Sensor",
+        "features": [
+          "Color Night Vision",
+          "In-Built Audio",
+          "HD Bullet Camera",
+          "CMOS Sensor"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio"
+      ],
+      "status": "active",
+      "lens": "6mm",
+      "image": "HSO 5MP HD Dual Light Audio Bullet Camera ST-VB HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD5B083",
+      "name": "HSO 5MP HD Color In-Built Audio Bullet Camera",
+      "model_number": "HSO-00000068",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "5MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with Color Night Vision and in-built audio for comprehensive surveillance. Features 3.6mm fixed lens, 20-meter night vision range, and CMOS sensor for superior image quality. Plastic body construction with 5MP resolution. Supports all brand DVR systems with 12V DC power. Made in India with comprehensive warranty coverage.",
+      "specifications": {
+        "resolution": "5MP",
+        "lens_type": "3.6mm Fixed",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "sensor": "CMOS Sensor",
+        "features": [
+          "Color Night Vision",
+          "In-Built Audio",
+          "HD Bullet Camera",
+          "CMOS Sensor"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio"
+      ],
+      "status": "active",
+      "image": "HSO 5MP HD Dual Light Audio Bullet Camera ST-VB HD5002DLA.png"
+    },
+    {
+      "id": "HSO-HD2B075",
+      "name": "HSO 2MP HD Color and Audio Bullet Camera",
+      "model_number": "HSO-00000069",
+      "category": "HD Camera",
+      "camera_type": "Bullet",
+      "resolution": "2MP",
+      "audio": "In-Built",
+      "connectivity": "HD",
+      "description": "HD Bullet Camera with universal DVR compatibility. Supports all brand DVR coaxial audio TVI/CVI systems for maximum flexibility. Features 3.6mm fixed lens with 85\u00b0 horizontal field of view, color night vision up to 20 meters, and in-built audio for comprehensive surveillance. Plastic body construction with VBR or CBR bit rate control. Powered by 12V DC. Made in India with 1 Year Replacement + 1 Year Repair Warranty.",
+      "specifications": {
+        "resolution": "2MP",
+        "lens_type": "3.6mm Fixed",
+        "field_of_view": "85\u00b0 horizontal",
+        "night_vision": "20 meters",
+        "power_voltage": "12V DC",
+        "material": "Plastic Body",
+        "bit_rate_control": "VBR or CBR",
+        "dvr_compatibility": "Supports all brand DVR coaxial audio TVI/CVI",
+        "features": [
+          "Color Night Vision",
+          "In-built Audio",
+          "Coaxial Audio Support",
+          "VBR/CBR Bit Rate Control"
+        ],
+        "warranty": "1 Year Replacement + 1 Year Repair",
+        "made_in": "India"
+      },
+      "special_features": [
+        "Color Night Vision",
+        "Audio",
+        "TVI/CVI Compatible"
+      ],
+      "status": "active",
+      "image": "HSO Color 5MP In-built Audio HD Dome Camera ST-VD HD5002WLA.png"
+    }
+  ]
+}
