@@ -126,7 +126,7 @@ export default function Navbar() {
             >
               <span className="material-symbols-outlined">search</span>
             </button>
-            
+
             {/* Contact Button */}
             <Link
               href="/contact"
@@ -232,6 +232,13 @@ export default function Navbar() {
                 className="block px-4 py-3 bg-premiummyello text-jet-black rounded-xl text-sm font-bold text-center hover:bg-premiummyello-light active:scale-95 shadow-glow-yellow"
               >
                 Contact Us
+              </Link>
+              <Link
+                href="/admin/login"
+                onClick={() => setIsMobileMenuOpen(false)}
+                className="block px-4 py-3 text-black/70 rounded-xl text-sm font-semibold text-center hover:bg-yellow-50 active:scale-95"
+              >
+                Admin Login
               </Link>
               <a
                 href="tel:+918282824138"

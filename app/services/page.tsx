@@ -225,12 +225,12 @@ export default function ServicesPage() {
                           src={
                             index === 0 ? "/cctvinstalation.png" : 
                             index === 1 ? "/newprojectsetup.png" : 
-                            index === 2 ? "/AMC&Maintenance.png" : 
-                            index === 3 ? "/Repair & Troubleshooting.png" :
-                            index === 4 ? "/Network Cabling.png" :
-                            index === 5 ? "/PoE Switch Configuration.png" :
-                            index === 6 ? "/Remote Viewing Setup.png" :
-                            "/Security Planning.png"
+                            index === 2 ? "/amc-maintenance.png" : 
+                            index === 3 ? "/repair-troubleshooting.png" :
+                            index === 4 ? "/network-cabling.png" :
+                            index === 5 ? "/poe-switch-config.png" :
+                            index === 6 ? "/remote-viewing-setup.png" :
+                            "/security-planning.png"
                           }
                           alt={
                             index === 0 ? "CCTV Installation" : 

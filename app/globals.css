@@ -79,6 +79,15 @@
     @apply border border-premiummyello/30 shadow-glow-yellow;
   }
 
+  /* Hide scrollbars for horizontal admin tab nav on mobile */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
   .frosted-glass {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);

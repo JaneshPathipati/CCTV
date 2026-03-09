@@ -203,7 +203,7 @@ export default function CCTVInstallationPage() {
             {[
               {
                 name: 'Bullet Cameras',
-                image: '/Velvu 12MP IP Low Light Color Bullet Camera ST-VB IP12002LL/HSO 2MP HD Color Audio Dome Fisheye Camera ST-VD HD2002WLA-FE.png',
+                image: '/hso-bullet.png',
                 description: 'Long-range outdoor surveillance with weatherproof design',
                 features: ['Outdoor use', 'Long-range viewing', 'Visible deterrent', 'Weatherproof'],
                 bestFor: 'Entrances, parking lots, perimeter security',
@@ -211,7 +211,7 @@ export default function CCTVInstallationPage() {
               },
               {
                 name: 'Dome Cameras',
-                image: '/HSO Color 5MP In-built Audio HD Dome Camera ST-VD HD5002WLA.png',
+                image: '/hso-dome.png',
                 description: 'Discreet indoor/outdoor cameras with wide coverage',
                 features: ['360° rotation', 'Vandal-resistant', 'Indoor/outdoor', 'Discreet design'],
                 bestFor: 'Offices, retail stores, hallways, lobbies',
@@ -219,7 +219,7 @@ export default function CCTVInstallationPage() {
               },
               {
                 name: 'WiFi & 4G Cameras',
-                image: '/Velvu 12MP IP Low Light Color Bullet Camera ST-VB IP12002LL/WIFI CAMERA -1.png',
+                image: '/hso-wifi-camera.png',
                 description: 'Wireless cameras with remote viewing capability',
                 features: ['No wiring needed', 'Mobile app access', '4G SIM support', 'Easy installation'],
                 bestFor: 'Remote locations, temporary setups, homes',
@@ -227,7 +227,7 @@ export default function CCTVInstallationPage() {
               },
               {
                 name: 'Night Vision Cameras',
-                image: '/HSO 5MP HD Dual Light Audio Dome Camera ST-VD HD5002DLA.png',
+                image: '/hso-dual-light-dome.png',
                 description: 'Crystal-clear footage even in complete darkness',
                 features: ['IR night vision', 'Up to 30m range', 'Color night mode', 'Auto switch'],
                 bestFor: '24/7 monitoring, low-light areas, night security',
@@ -235,7 +235,7 @@ export default function CCTVInstallationPage() {
               },
               {
                 name: 'PTZ Cameras',
-                image: '/HSO 2MP HD Dual Light Audio Bullet Camera ST-VB HD2002DLA.png',
+                image: '/hso-ptz.png',
                 description: 'Pan, tilt, and zoom for active monitoring',
                 features: ['Remote control', '360° coverage', 'Optical zoom', 'Auto tracking'],
                 bestFor: 'Large areas, warehouses, factories, malls',
@@ -243,7 +243,7 @@ export default function CCTVInstallationPage() {
               },
               {
                 name: 'Fisheye Cameras',
-                image: '/HSO 2MP HD Color Audio Dome Fisheye Camera ST-VD HD2002WLA-FE.png',
+                image: '/hso-fisheye.png',
                 description: '180° or 360° panoramic view with single camera',
                 features: ['Wide coverage', 'No blind spots', 'Cost-effective', 'Ceiling mount'],
                 bestFor: 'Shops, showrooms, small offices, reception areas',

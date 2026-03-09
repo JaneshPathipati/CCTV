@@ -41,7 +41,7 @@ function ImageCarousel() {
   return (
     <div className="w-full h-auto">
       <Image
-        src="/Velvu 12MP IP Low Light Color Bullet Camera ST-VB IP12002LL/HSO 2.5.png"
+        src="/hso-hero.png"
         alt="HSO CCTV Security Solutions"
         width={1920}
         height={1080}
@@ -222,6 +222,7 @@ export default function Home() {
                       fill
                       className="object-contain group-hover:scale-105 transition-transform duration-300"
                       unoptimized
+                      sizes="(max-width: 768px) 50vw, 25vw"
                     />
                   </div>
                   {index < badges.length && (
@@ -269,33 +270,49 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {[
-              { image: '/hso-works/006_dl-enterprises-ntr-road-madanapalle-cctv-dealers-2se1gsq9dc.jpg.jpeg', title: 'CCTV Installation Project 1', subtitle: 'Professional Installation' },
-              { image: '/hso-works/010_dl-enterprises-ntr-road-madanapalle-cctv-dealers-geb5usb91b.jpg.jpeg', title: 'CCTV Installation Project 2', subtitle: 'Professional Installation' },
-              { image: '/hso-works/011_dl-enterprise-madanapalle-old-bypass-road-madanapalle-cctv-dealers-d3t4i37mxy.jpg.jpeg', title: 'CCTV Installation Project 3', subtitle: 'Professional Installation' },
-              { image: '/hso-works/012_dl-enterprises-ntr-road-madanapalle-cctv-dealers-b7etjg7c0g.jpg.jpeg', title: 'CCTV Installation Project 4', subtitle: 'Professional Installation' },
-              { image: '/hso-works/015_dl-enterprises-ntr-road-madanapalle-cctv-dealers-8b09oyka7f.jpg.jpeg', title: 'CCTV Installation Project 5', subtitle: 'Professional Installation' },
-              { image: '/hso-works/016_dl-enterprises-ntr-road-madanapalle-cctv-dealers-ye2p4b2moa.jpg.jpeg', title: 'CCTV Installation Project 6', subtitle: 'Professional Installation' },
-              { image: '/hso-works/017_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-jmwfu4igoj.jpg.jpeg', title: 'CCTV Installation Project 7', subtitle: 'Professional Installation' },
-              { image: '/hso-works/020_dl-enterprises-ntr-road-madanapalle-cctv-dealers-b6jhwpd5co.jpg.jpeg', title: 'CCTV Installation Project 8', subtitle: 'Professional Installation' },
-            ].map((project, index) => (
+              '/hso-works/006_dl-enterprises-ntr-road-madanapalle-cctv-dealers-2se1gsq9dc.jpg.jpeg',
+              '/hso-works/010_dl-enterprises-ntr-road-madanapalle-cctv-dealers-geb5usb91b.jpg.jpeg',
+              '/hso-works/011_dl-enterprise-madanapalle-old-bypass-road-madanapalle-cctv-dealers-d3t4i37mxy.jpg.jpeg',
+              '/hso-works/012_dl-enterprises-ntr-road-madanapalle-cctv-dealers-b7etjg7c0g.jpg.jpeg',
+              '/hso-works/015_dl-enterprises-ntr-road-madanapalle-cctv-dealers-8b09oyka7f.jpg.jpeg',
+              '/hso-works/016_dl-enterprises-ntr-road-madanapalle-cctv-dealers-ye2p4b2moa.jpg.jpeg',
+              '/hso-works/017_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-jmwfu4igoj.jpg.jpeg',
+              '/hso-works/020_dl-enterprises-ntr-road-madanapalle-cctv-dealers-b6jhwpd5co.jpg.jpeg',
+              '/hso-works/021_dl-enterprises-ntr-road-madanapalle-cctv-dealers-k5yfh3kc77.jpg.jpeg',
+              '/hso-works/023_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-b99ahuzheo.jpg.jpeg',
+              '/hso-works/024_dl-enterprises-ntr-road-madanapalle-cctv-dealers-hrwwwoq1sh.jpg.jpeg',
+              '/hso-works/026_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-9g1d527hha.jpg.jpeg',
+              '/hso-works/029_dl-enterprises-ntr-road-madanapalle-cctv-dealers-1znrye2g6f.jpg.jpeg',
+              '/hso-works/030_dl-enterprises-ntr-road-madanapalle-cctv-dealers-vl4gwx67cx.jpg.jpeg',
+              '/hso-works/032_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-rqkvjgdkqa.jpg.jpeg',
+              '/hso-works/034_dl-enterprises-ntr-road-madanapalle-cctv-dealers-99ayyp1s2d.jpg.jpeg',
+              '/hso-works/036_dl-enterprise-madanapalle-cctv-dealers-3bmgegvjse.jpg.jpeg',
+              '/hso-works/038_dl-enterprises-ntr-road-madanapalle-cctv-dealers-mx73ycsois.jpg.jpeg',
+              '/hso-works/040_dl-enterprises-ntr-road-madanapalle-cctv-dealers-udpx2xgyvy.jpg.jpeg',
+              '/hso-works/041_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-tg2t7ilpbb.jpg.jpeg',
+              '/hso-works/043_dl-enterprises-ntr-road-madanapalle-cctv-dealers-fxegqhgmj7.jpg.jpeg',
+              '/hso-works/044_dl-cctv-security-camera-service-patel-road-madanapalle-security-system-installation-services-g11vyjrwe0.jpg.jpeg',
+              '/hso-works/045_dl-enterprises-ntr-road-madanapalle-cctv-dealers-udpx2xgyvy.jpg.jpeg',
+              '/hso-works/048_dl-enterprises-ntr-road-madanapalle-cctv-dealers-shhn6rbujh.jpg.jpeg',
+            ].map((image, index) => (
               <div
                 key={index}
-                className="group relative overflow-hidden rounded-2xl border-2 border-black/10 hover:border-premiummyello shadow-lg hover:shadow-2xl transition-all duration-300"
+                className="group relative overflow-hidden rounded-xl border border-black/10 hover:border-premiummyello shadow-md hover:shadow-xl transition-all duration-300"
               >
-                <div className="aspect-[4/3] relative bg-gradient-to-br from-gray-50 to-gray-100">
+                <div className="aspect-[4/3] relative bg-gray-100">
                   <Image
-                    src={project.image}
-                    alt={project.title}
+                    src={image}
+                    alt={`CCTV Installation Project ${index + 1}`}
                     fill
-                    className="object-cover group-hover:scale-110 transition-transform duration-500"
+                    className="object-cover group-hover:scale-105 transition-transform duration-500"
                     unoptimized
+                    loading={index < 8 ? 'eager' : 'lazy'}
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>
-                  <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
-                    <h3 className="text-sm font-bold mb-1">{project.title}</h3>
-                    <p className="text-xs text-white/80">{project.subtitle}</p>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                  <div className="absolute bottom-0 left-0 right-0 p-3 text-white translate-y-full group-hover:translate-y-0 transition-transform duration-300">
+                    <p className="text-xs font-semibold">Project {index + 1}</p>
                   </div>
                 </div>
               </div>

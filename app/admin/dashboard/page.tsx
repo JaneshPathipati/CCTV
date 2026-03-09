@@ -70,27 +70,27 @@ export default function AdminDashboard() {
     <div className="min-h-screen bg-gradient-to-br from-yellow-50 to-white">
       {/* Header */}
       <header className="bg-gradient-to-r from-jet-black to-gray-900 shadow-xl">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <div className="flex justify-between items-center">
-            <div>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
+          <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <div className="text-center sm:text-left">
               <h1 className="text-3xl font-bold text-premiummyello flex items-center gap-3">
                 <span className="material-symbols-outlined text-4xl">admin_panel_settings</span>
                 HSO CCTV Admin
               </h1>
-              <p className="text-sm text-white/70 mt-1">Welcome back, {user?.email}</p>
+              <p className="text-sm text-white/70 mt-1 break-all">Welcome back, {user?.email}</p>
             </div>
-            <div className="flex gap-3">
+            <div className="flex flex-col sm:flex-row gap-3">
               <Link
                 href="/"
                 target="_blank"
-                className="px-6 py-2.5 bg-white/10 backdrop-blur-sm text-white rounded-xl hover:bg-white/20 transition-all border border-white/20 flex items-center gap-2"
+                className="px-5 py-2.5 bg-white/10 backdrop-blur-sm text-white rounded-xl hover:bg-white/20 transition-all border border-white/20 flex items-center justify-center gap-2"
               >
                 <span className="material-symbols-outlined text-sm">open_in_new</span>
                 View Site
               </Link>
               <button
                 onClick={handleLogout}
-                className="px-6 py-2.5 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-all shadow-lg hover:shadow-xl flex items-center gap-2"
+                className="px-5 py-2.5 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-all shadow-lg hover:shadow-xl flex items-center justify-center gap-2"
               >
                 <span className="material-symbols-outlined text-sm">logout</span>
                 Logout
@@ -102,25 +102,25 @@ export default function AdminDashboard() {
 
       {/* Navigation */}
       <nav className="bg-white/80 backdrop-blur-sm border-b border-gray-200 shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex space-x-8">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
+          <div className="flex space-x-6 overflow-x-auto no-scrollbar">
             <Link
               href="/admin/dashboard"
-              className="px-3 py-4 text-jet-black border-b-2 border-premiummyello font-semibold flex items-center gap-2"
+              className="px-3 py-3 sm:py-4 text-jet-black border-b-2 border-premiummyello font-semibold flex items-center gap-2 whitespace-nowrap"
             >
               <span className="material-symbols-outlined text-lg">dashboard</span>
               Dashboard
             </Link>
             <Link
               href="/admin/products"
-              className="px-3 py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2"
+              className="px-3 py-3 sm:py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2 whitespace-nowrap"
             >
               <span className="material-symbols-outlined text-lg">inventory_2</span>
               Products
             </Link>
             <Link
               href="/admin/profile"
-              className="px-3 py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2"
+              className="px-3 py-3 sm:py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2 whitespace-nowrap"
             >
               <span className="material-symbols-outlined text-lg">person</span>
               Profile

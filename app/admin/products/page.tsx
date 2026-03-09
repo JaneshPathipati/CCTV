@@ -118,15 +118,15 @@ export default function ProductsManagementPage() {
     <div className="min-h-screen bg-gradient-to-br from-yellow-50 to-white">
       {/* Header */}
       <header className="bg-gradient-to-r from-jet-black to-gray-900 shadow-xl">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <div className="flex justify-between items-center">
-            <h1 className="text-3xl font-bold text-premiummyello flex items-center gap-3">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
+          <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <h1 className="text-3xl font-bold text-premiummyello flex items-center gap-3 text-center sm:text-left">
               <span className="material-symbols-outlined text-4xl">inventory_2</span>
               Product Management
             </h1>
             <Link
               href="/admin/dashboard"
-              className="px-6 py-2.5 bg-white/10 backdrop-blur-sm text-white rounded-xl hover:bg-white/20 transition-all border border-white/20 flex items-center gap-2"
+              className="px-5 py-2.5 bg-white/10 backdrop-blur-sm text-white rounded-xl hover:bg-white/20 transition-all border border-white/20 flex items-center justify-center gap-2"
             >
               <span className="material-symbols-outlined text-sm">arrow_back</span>
               Back to Dashboard
@@ -137,25 +137,25 @@ export default function ProductsManagementPage() {
 
       {/* Navigation */}
       <nav className="bg-white/80 backdrop-blur-sm border-b border-gray-200 shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex space-x-8">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
+          <div className="flex space-x-6 overflow-x-auto no-scrollbar">
             <Link
               href="/admin/dashboard"
-              className="px-3 py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2"
+              className="px-3 py-3 sm:py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2 whitespace-nowrap"
             >
               <span className="material-symbols-outlined text-lg">dashboard</span>
               Dashboard
             </Link>
             <Link
               href="/admin/products"
-              className="px-3 py-4 text-jet-black border-b-2 border-premiummyello font-semibold flex items-center gap-2"
+              className="px-3 py-3 sm:py-4 text-jet-black border-b-2 border-premiummyello font-semibold flex items-center gap-2 whitespace-nowrap"
             >
               <span className="material-symbols-outlined text-lg">inventory_2</span>
               Products
             </Link>
             <Link
               href="/admin/profile"
-              className="px-3 py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2"
+              className="px-3 py-3 sm:py-4 text-gray-600 hover:text-jet-black transition-colors flex items-center gap-2 whitespace-nowrap"
             >
               <span className="material-symbols-outlined text-lg">person</span>
               Profile

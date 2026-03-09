@@ -5,28 +5,32 @@ const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey)
 
+// Supabase project URL — hardcoded as a reliable fallback (also inlined at build via NEXT_PUBLIC_)
+const SUPABASE_PROJECT_URL = 'https://xfojwfbxxibqwhilyycs.supabase.co'
+
 // Helper function to get product image URL
 export function getProductImageUrl(imagePath: string | null | undefined): string {
   if (!imagePath) {
-    return '/placeholder-camera.png'; // Fallback image
+    return '/placeholder-camera.png'
   }
-  
-  // If it's already a full URL, return it
-  if (imagePath.startsWith('http')) {
-    return imagePath;
+
+  // If it's already a full URL, return it as-is
+  if (imagePath.startsWith('http://') || imagePath.startsWith('https://')) {
+    return imagePath
   }
-  
-  // Check if it's a Supabase Storage file (contains timestamp pattern like -1771144698862)
-  const isSupabaseFile = /\-\d{13}\.(png|jpg|jpeg|gif|webp)$/i.test(imagePath);
-  
+
+  // Check if it's a Supabase Storage file (timestamp pattern like -1771144698862)
+  const isSupabaseFile = /\-\d{13}\.(png|jpg|jpeg|gif|webp)$/i.test(imagePath)
+
   if (isSupabaseFile) {
-    // Construct Supabase Storage URL directly
-    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || '';
-    return `${supabaseUrl}/storage/v1/object/public/product-images/${imagePath}`;
+    const base = process.env.NEXT_PUBLIC_SUPABASE_URL || SUPABASE_PROJECT_URL
+    // Encode filename to handle any spaces or special characters in storage names
+    const encodedName = encodeURIComponent(imagePath)
+    return `${base}/storage/v1/object/public/product-images/${encodedName}`
   }
-  
-  // Otherwise, it's an old migrated image - use the old path
-  return `/Velvu 12MP IP Low Light Color Bullet Camera ST-VB IP12002LL/${imagePath}`;
+
+  // Fallback to placeholder for any unrecognised format
+  return '/placeholder-camera.png'
 }
 
 // For server-side operations with elevated privileges (use only in API routes or server components)

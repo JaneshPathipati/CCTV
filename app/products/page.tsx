@@ -348,8 +348,9 @@ function ProductsContent() {
                       fill
                       className="object-contain p-4 z-10"
                       unoptimized
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                      loading="lazy"
                       onError={(e) => {
-                        // Hide image on error, show fallback icon
                         const target = e.target as HTMLImageElement
                         target.style.display = 'none'
                       }}
@@ -404,7 +405,7 @@ function ProductsContent() {
                           id: product.id,
                           name: product.name,
                           model_number: product.model_number,
-                          image: product.image || 'placeholder.png',
+                          image: product.image || '',
                           category: product.category,
                         })
                         setAddedProductId(product.id)

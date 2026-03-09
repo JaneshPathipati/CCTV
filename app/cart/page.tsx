@@ -4,6 +4,7 @@ import { useCart } from '@/contexts/CartContext';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
+import { getProductImageUrl } from '@/lib/supabase';
 
 export default function CartPage() {
   const { cart, removeFromCart, updateQuantity, clearCart, getCartCount } = useCart();
@@ -93,10 +94,11 @@ export default function CartPage() {
               >
                 <div className="relative w-24 h-24 flex-shrink-0">
                   <Image
-                    src={`/${item.image}`}
+                    src={getProductImageUrl(item.image)}
                     alt={item.name}
                     fill
                     className="object-contain rounded-lg"
+                    unoptimized
                   />
                 </div>
 

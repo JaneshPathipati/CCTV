@@ -17,7 +17,7 @@ export default function ConditionalLayout({ children }: { children: React.ReactN
   return (
     <>
       <Navbar />
-      <main className="min-h-screen">
+      <main className="min-h-screen pb-28 md:pb-8">
         {children}
       </main>
       <Footer />

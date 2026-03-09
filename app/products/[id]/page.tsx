@@ -73,7 +73,7 @@ export default function ProductDetailPage() {
         id: product.id,
         name: product.name,
         model_number: product.model_number,
-        image: product.image || 'placeholder.png',
+        image: product.image || '',
         category: product.category,
       })
       setAddedToCart(true)
