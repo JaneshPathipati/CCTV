@@ -113,7 +113,6 @@ export default function Footer() {
                 </svg>
                 <span>Authorized HSO Partner</span>
               </span>
-              <span>GST: DL ENTERPRISES (GSTIN: [Add GST Number])</span>
             </div>
           </div>
         </div>

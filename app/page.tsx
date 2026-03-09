@@ -47,7 +47,6 @@ function ImageCarousel() {
         height={1080}
         className="w-full h-auto"
         priority
-        unoptimized
       />
     </div>
   )
@@ -221,7 +220,6 @@ export default function Home() {
                       alt={product.name}
                       fill
                       className="object-contain group-hover:scale-105 transition-transform duration-300"
-                      unoptimized
                       sizes="(max-width: 768px) 50vw, 25vw"
                     />
                   </div>
@@ -307,8 +305,8 @@ export default function Home() {
                     alt={`CCTV Installation Project ${index + 1}`}
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
-                    unoptimized
-                    loading={index < 8 ? 'eager' : 'lazy'}
+                    sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                    loading={index < 4 ? 'eager' : 'lazy'}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   <div className="absolute bottom-0 left-0 right-0 p-3 text-white translate-y-full group-hover:translate-y-0 transition-transform duration-300">
@@ -390,7 +388,8 @@ export default function Home() {
                   alt="HSO CCTV - Professional Installation"
                   fill
                   className="object-cover"
-                  unoptimized
+                  sizes="(max-width: 1024px) 100vw, 50vw"
+                  loading="lazy"
                 />
               </div>
             </div>

@@ -244,7 +244,8 @@ export default function ServicesPage() {
                           }
                           fill
                           className="object-cover"
-                          unoptimized
+                          sizes="(max-width: 1024px) 100vw, 50vw"
+                          loading="lazy"
                         />
                       </div>
                       <div className="p-8 bg-white">
@@ -358,7 +359,8 @@ export default function ServicesPage() {
                       alt={process.title}
                       fill
                       className="object-cover"
-                      unoptimized
+                      sizes="(max-width: 1024px) 100vw, 50vw"
+                      loading="lazy"
                     />
                   </div>
                 )}
@@ -424,11 +426,12 @@ export default function ServicesPage() {
                 className="group relative aspect-square overflow-hidden rounded-xl border-2 border-premiummyello/20 hover:border-premiummyello shadow-md hover:shadow-2xl transition-all duration-300"
               >
                 <Image
-                  src={`/hso works /${image}`}
+                  src={`/hso-works/${image}`}
                   alt={`CCTV Installation Project ${index + 1}`}
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
-                  unoptimized
+                  sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                  loading={index < 6 ? 'eager' : 'lazy'}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <div className="absolute bottom-0 left-0 right-0 p-4">

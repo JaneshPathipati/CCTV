@@ -139,7 +139,8 @@ export default function ProductDetailPage() {
                         alt={product.name}
                         fill
                         className="object-contain p-4"
-                        unoptimized
+                        sizes="(max-width: 768px) 100vw, 50vw"
+                        priority
                       />
                       <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm flex items-center gap-1">
                         <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -437,7 +438,7 @@ export default function ProductDetailPage() {
               alt={product.name}
               fill
               className="object-contain"
-              unoptimized
+              sizes="90vw"
             />
             <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-black/70 text-white px-4 py-2 rounded-lg text-sm">
               {product.name}
