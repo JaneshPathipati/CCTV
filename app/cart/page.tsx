@@ -98,6 +98,8 @@ export default function CartPage() {
                     alt={item.name}
                     fill
                     className="object-contain rounded-lg"
+                    unoptimized
+                    sizes="96px"
                   />
                 </div>
 

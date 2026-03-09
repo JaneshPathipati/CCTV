@@ -367,6 +367,7 @@ export default function EditProductPage() {
                     alt={formData.name}
                     fill
                     className="object-contain"
+                    unoptimized
                     sizes="(max-width: 768px) 100vw, 40vw"
                   />
                 </div>

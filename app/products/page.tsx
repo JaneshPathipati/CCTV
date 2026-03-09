@@ -347,6 +347,7 @@ function ProductsContent() {
                       alt={product.name}
                       fill
                       className="object-contain p-4 z-10"
+                      unoptimized
                       sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                       loading="lazy"
                       onError={(e) => {

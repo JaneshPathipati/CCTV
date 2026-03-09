@@ -139,6 +139,7 @@ export default function ProductDetailPage() {
                         alt={product.name}
                         fill
                         className="object-contain p-4"
+                        unoptimized
                         sizes="(max-width: 768px) 100vw, 50vw"
                         priority
                       />
@@ -438,6 +439,7 @@ export default function ProductDetailPage() {
               alt={product.name}
               fill
               className="object-contain"
+              unoptimized
               sizes="90vw"
             />
             <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-black/70 text-white px-4 py-2 rounded-lg text-sm">

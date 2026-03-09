@@ -244,6 +244,7 @@ export default function ServicesPage() {
                           }
                           fill
                           className="object-cover"
+                          unoptimized
                           sizes="(max-width: 1024px) 100vw, 50vw"
                           loading="lazy"
                         />
@@ -359,6 +360,7 @@ export default function ServicesPage() {
                       alt={process.title}
                       fill
                       className="object-cover"
+                      unoptimized
                       sizes="(max-width: 1024px) 100vw, 50vw"
                       loading="lazy"
                     />
@@ -430,6 +432,7 @@ export default function ServicesPage() {
                   alt={`CCTV Installation Project ${index + 1}`}
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
+                  unoptimized
                   sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
                   loading={index < 6 ? 'eager' : 'lazy'}
                 />
